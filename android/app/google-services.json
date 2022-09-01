@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955740652361",
+    "project_id": "fireblog-test-1",
+    "storage_bucket": "fireblog-test-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955740652361:android:c24c4e238180f4523b5098",
+        "android_client_info": {
+          "package_name": "com.example.fireblog_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955740652361-2kc056kfonbudabcdbvbblg6aetgtu7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOLJR3MxMq4MkGsRJXYzMy7yPOtvBsE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955740652361-2kc056kfonbudabcdbvbblg6aetgtu7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
